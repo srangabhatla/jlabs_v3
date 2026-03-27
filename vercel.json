@@ -30,8 +30,4 @@
       ]
     }
   ],
-  "env": {
-    "REACT_APP_SUPABASE_URL":  "@supabase_url",
-    "REACT_APP_SUPABASE_ANON": "@supabase_anon"
-  }
 }
